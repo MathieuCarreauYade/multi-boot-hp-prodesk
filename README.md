@@ -15,7 +15,7 @@ Expérimentation multi-boot Linux, macOS, Windows et FreeBSD sur HP ProDesk, ave
 
 ## Matériel utilisé
 
-- HP ProDesk équipé d’un Intel i5-4160, 32Go RAM
+- HP ProDesk équipé d’un Intel i3-4160, 32Go RAM
 - SSD 512Go pour Debian/macOS
 - SSD 120Go pour Windows/FreeBSD
 - HDD 500Go pour sauvegardes et images système
